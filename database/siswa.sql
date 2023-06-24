@@ -1,0 +1,1 @@
+INSERT INTO `siswa`(`nama`, `no absen`, `kelas`, `mata_pelajaran_id`) VALUES ('Dede', '12', 'XII IPA 1', 1)
